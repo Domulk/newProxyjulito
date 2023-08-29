@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 #EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Programación Mundial Baloncesto  
 https://golmundial.com/partidos
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/e0a91c5adcde0f3272943.jpg" ,Gol Mundial 1  7838
-acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/33058fa92054dce6e1e12.jpg" ,Gol Mundial 2  4af5
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/a89a02e875bc727f425d7.jpg" ,Gol Mundial 3  52c8
-acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="nil" tvg-logo="https://telegra.ph/file/138cd46b2a835497b718a.jpg" ,Gol Mundial 4  5a8d
-acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  9dad
@@ -83,6 +75,14 @@ acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,ML Campeones 12 SD  3336
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Canal  7838
+acestream://78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,78384a676407784df944243eb2f75d937fbcc253  4af5
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b  52c8
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,52c8ff01836c294caad8b8c029b53360aa16a4cd  5a8d
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080  8ca0
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720  eaff

@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
 #EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Calendario Mundial Baloncesto  
 https://golmundial.com/partidos
+#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,F1 UHD electroperra  76d4
+http://192.168.1.90:8008/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 1" tvg-logo="https://telegra.ph/file/e0a91c5adcde0f3272943.jpg" ,Gol Mundial 1  7838
 http://192.168.1.90:8008/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc253
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 2" tvg-logo="https://telegra.ph/file/33058fa92054dce6e1e12.jpg" ,Gol Mundial 2  4af5

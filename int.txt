@@ -159,7 +159,7 @@ http://192.168.1.90:8008/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d7208
 http://192.168.1.90:8008/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpMainEv.uk" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" ,Sky Sports Main Event UK  eab7
 http://192.168.1.90:8008/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="I402.1890.tvguide.co.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Premier League UK  ec5e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpPL.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Plus UK  ec5e
 http://192.168.1.90:8008/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpFball.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Football UK  8dbe
 http://192.168.1.90:8008/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d

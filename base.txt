@@ -11,6 +11,8 @@ acestream://78384a676407784df944243eb2f75d937fbcc253
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 3" tvg-logo="https://telegra.ph/file/a89a02e875bc727f425d7.jpg" ,Gol Mundial 3  52c8
 acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 3" tvg-logo="https://telegra.ph/file/a89a02e875bc727f425d7.jpg" ,Gol Mundial 3  d6d5
+acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial 4" tvg-logo="https://telegra.ph/file/138cd46b2a835497b718a.jpg" ,Gol Mundial 4  5a8d
 acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789

@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, http://epgspot.com/rytec_epg/rytecUK_SportMovies.xz, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml" 
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1 F1 UHD  eeb0
-http://192.168.1.90:8008/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
-http://192.168.1.90:8008/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="Eventos" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 UHD by electroperra  ac5b
-http://192.168.1.90:8008/ace/getstream?id=ac5b8784bb7dae0dbc6a2edc037fbf5c8d6a97d1
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  5789
 http://192.168.1.90:8008/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1 1080  9dad

@@ -5,7 +5,7 @@ La1 UHD
 La2
 60106275d34f995e26bb2cc4a21a42f586c6c555
 M. LaLiga 1440P
-6b94479c24898700089e6b87d28a3ccc72dc4041
+dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 M. LaLiga 1080P
 aa82e7d4f03061f2144a2f4be22f2e2210d42280
 M. LaLiga 1080 MultiAudio
@@ -172,5 +172,7 @@ Dazn liga F 1
 d6cdd724a97fcf851e7ef641c28d6beb8663496e
 Dazn liga f 2
 4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-Dazn liga f 2
+Dazn liga f 3
 162942adc047d0f78eac056effbe5bbec54a5e51
+Dazn liga f 4
+e454681a152a86da504e63694f17f90d0586867d

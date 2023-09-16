@@ -168,13 +168,9 @@ beIN SPORTS ñ
 41af6926a6010b68ba2540975761436bb077748f
 Barça 720
 e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-Gol Mundial 1
-78384a676407784df944243eb2f75d937fbcc253
-Gol Mundial 2
+Dazn liga F 1
+d6cdd724a97fcf851e7ef641c28d6beb8663496e
+Dazn liga f 2
 4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-Gol Mundial 3
-52c8ff01836c294caad8b8c029b53360aa16a4cd
-Gol Mundial 3
-d6d5775a2965b15ee405278b6a2e5a4374a80e25
-Gol Mundial 4
-5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
+Dazn liga f 2
+162942adc047d0f78eac056effbe5bbec54a5e51

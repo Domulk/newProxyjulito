@@ -135,7 +135,7 @@ http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1 F1 UHD  eeb0
 http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD  be07
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
 http://127.0.0.1:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV  e72d
 http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95

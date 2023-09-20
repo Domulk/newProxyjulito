@@ -86,11 +86,11 @@ M. Deportes 6 1080
 8587ed8ac36ac477e1d4176d3159a38bd154d4ce
 M. Deportes 7 1080
 2448f1d084f440eed2fbe847e24f1c02f5659a78
-M.L. Campeones 1080
+M.L. Campeones 1080 MultiAudio
 931b1984badcb821df7b47a66ac0835ac871b51c
 M.L. Campeones 1080 MultiAudio
 f096a64dd756a6d549aa7b12ee9acf7eee27e833
-M.L. Campeones 1080 MultiAudio
+M.L. Campeones 1080P
 1d79a7543d691666135669f89f3541f54e2dd0a9
 M.L. Campeones 720
 e2e2aca792aae5da19995ac516b1d620531bd49c
@@ -110,8 +110,8 @@ M.L. Campeones 6 1080
 a0978a100de9a307c12d395d9b2f4142db6ab52d
 M.L. Campeones 7 1080
 5932623d2fd7ed16b01787251b418e4f59a01cda
-M.L. Campeones 8 SD
-fdd9e3660059051660dbd7857443c2b807f258d0
+M.L. Campeones 8 1080
+1a4b41c02e116ed19a505551a9caa79f54c027f7
 M.L. Campeones 9 SD
 69c95dc47b35dde559a6ef025c1b91c89646a17f
 M.L. Campeones 10 SD

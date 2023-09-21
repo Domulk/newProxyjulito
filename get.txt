@@ -119,6 +119,44 @@ http://127.0.0.1:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
 http://127.0.0.1:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  4d52
 http://127.0.0.1:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1 F1 UHD  eeb0
+http://127.0.0.1:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
+http://127.0.0.1:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV  e72d
+http://127.0.0.1:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ESPN US  4b49
+http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ESPN2.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ESPN 2 US  664e
+http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports1.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,FOX Sports 1 US  c9c0
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="Otros deportes" tvg-id="FoxSports2.us" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,FOX Sports 2 US  cba8
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpMainEv.uk" tvg-logo="https://telegra.ph/file/f435538aa2919bbdf802c.jpg" ,Sky Sports Main Event UK  eab7
+http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="I402.1890.tvguide.co.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Premier League UK  ec5e
+http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpFball.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Football UK  8dbe
+http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
+http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportF1Germany.de" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 DE  b043
+http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport2.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 2 UK  d63d
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport3.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 3 UK  5f96
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport4.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 4 UK  fc50
+http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,beIN Sports Xtra Ñ  92a7
+http://127.0.0.1:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Voetbal NL  9576
+http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+#EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing NL  7780
+http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,M+ LaLiga UHD mas info grupo telegram  dce1
 http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,M+ LaLiga 1080P  aa82
@@ -165,6 +203,18 @@ http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Dazn liga f 4  e454
 http://127.0.0.1:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
+#EXTINF:-1 group-title="electroperra" tvg-id="Discovery" tvg-logo="https://telegra.ph/file/bf0dbd8e082efdd1b4523.png" ,Discovery  
+http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:0D:9F:6D&stream=30194&extension=ts&play_token=H9QHtyNjwN
+#EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" ,National Geographic  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="electroperra" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
+#EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://telegra.ph/file/b2b00bd7ca033d6e69d6e.jpg" ,La2  2001
+http://127.0.0.1:6878/ace/getstream?id=2001b0d65d41ffc4086070bf7a63bdb1c59ea737
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1  02b9
 http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD  6636

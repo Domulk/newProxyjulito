@@ -125,7 +125,7 @@ http://192.168.1.90:8008/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260
 http://192.168.1.90:8008/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
 http://192.168.1.90:8008/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep3 BCN - Celta UHD MultiAudio  8286
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep3 MultiAudio  8286
 http://192.168.1.90:8008/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I216.32281.zap2it.com" tvg-logo="https://i.imgur.com/4QrPlos.png" ,NBA TV  e72d
 http://192.168.1.90:8008/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
@@ -145,6 +145,8 @@ http://192.168.1.90:8008/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d063
 http://192.168.1.90:8008/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
 http://192.168.1.90:8008/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 UK  a2a2
+http://192.168.1.90:8008/ace/getstream?id=a2a2355137774e39862801c174952f58a5940712
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportF1Germany.de" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 DE  b043
 http://192.168.1.90:8008/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6

@@ -145,8 +145,6 @@ http://192.168.1.90:8008/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d063
 http://192.168.1.90:8008/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySpArena.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports Arena UK  d317
 http://192.168.1.90:8008/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 UK  a2a2
-http://192.168.1.90:8008/ace/getstream?id=a2a2355137774e39862801c174952f58a5940712
 #EXTINF:-1 group-title="Otros deportes" tvg-id="SkySportF1Germany.de" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Sky Sports F1 DE  b043
 http://192.168.1.90:8008/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport1.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 1 UK  efc6

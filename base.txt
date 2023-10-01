@@ -219,8 +219,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55611&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55613&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="electroperra" tvg-id="Odisea" tvg-logo="https://telegra.ph/file/3ee15bce44c6c32af8a85.png" ,Odisea  
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55597&extension=ts&play_token=ltn2GgE1z6
-#EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://telegra.ph/file/b2b00bd7ca033d6e69d6e.jpg" ,La2  2001
-acestream://2001b0d65d41ffc4086070bf7a63bdb1c59ea737
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1  02b9
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La1 UHD  6636

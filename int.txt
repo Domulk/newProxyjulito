@@ -155,8 +155,6 @@ http://192.168.1.90:8008/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a8
 http://192.168.1.90:8008/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 group-title="Otros deportes" tvg-id="TNTSport4.uk" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,TNT Sports 4 UK  fc50
 http://192.168.1.90:8008/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,beIN Sports Xtra Ñ  92a7
-http://192.168.1.90:8008/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportVoetbal.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Voetbal NL  9576
 http://192.168.1.90:8008/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing NL  7780

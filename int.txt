@@ -173,8 +173,8 @@ http://192.168.1.90:8008/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97e
 http://192.168.1.90:8008/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 7 1080  5932
 http://192.168.1.90:8008/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 8 1080  1a4b
-http://192.168.1.90:8008/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 8 1080  6c44
+http://192.168.1.90:8008/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 17 SD  6029
 http://192.168.1.90:8008/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,DAZN F1 UHD  6b94

@@ -121,7 +121,7 @@ http://192.168.1.90:8008/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e68546
 http://192.168.1.90:8008/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg" ,LaLiga Hypermotion 8  4d52
 http://192.168.1.90:8008/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1 F1 UHD  eeb0
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep1 F1 UHD DASH  eeb0
 http://192.168.1.90:8008/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ep2 LaLiga UHD DASH  be07
 http://192.168.1.90:8008/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c

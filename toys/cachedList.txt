@@ -177,7 +177,7 @@ e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 Dazn liga F 1
 600222a4f98df80a2c0df2d60cb5ff3df9620710
 Dazn liga f 2
-4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+d6cdd724a97fcf851e7ef641c28d6beb8663496e
 Dazn liga f 3
 162942adc047d0f78eac056effbe5bbec54a5e51
 Dazn liga f 4

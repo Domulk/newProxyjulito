@@ -177,6 +177,8 @@ plugin://script.module.horus?action=play&id=5932623d2fd7ed16b01787251b418e4f59a0
 plugin://script.module.horus?action=play&id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 17 SD  6029
 plugin://script.module.horus?action=play&id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,DAZN F1 Multicamara  9686
+plugin://script.module.horus?action=play&id=968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,DAZN F1 UHD  6b94
 plugin://script.module.horus?action=play&id=6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c

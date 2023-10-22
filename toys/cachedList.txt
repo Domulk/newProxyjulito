@@ -140,6 +140,8 @@ DAZN 3 1080
 a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 DAZN 4 1080
 2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+DAZN F1 Multicamara (Fórmula 1)
+968627d24eec1c16b51d88e4a4a6c02211e3346e
 DAZN F1 UHD (Fórmula 1)
 6b94479c24898700089e6b87d28a3ccc72dc4041
 DAZN F1 1080 (Fórmula 1)

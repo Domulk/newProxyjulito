@@ -165,8 +165,8 @@ plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb32
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 1080P  1d79
 plugin://script.module.horus?action=play&id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 4 1080  1b48
-plugin://script.module.horus?action=play&id=1b48d5881337c87b89e1edefff6688fe2271d222
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 4 1080  f2df
+plugin://script.module.horus?action=play&id=f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 5 1080  5c21
 plugin://script.module.horus?action=play&id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 6 1080  a097

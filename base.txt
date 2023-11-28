@@ -167,8 +167,8 @@ acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 4 1080  f2df
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 5 1080  5c21
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 5 1080  67b3
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 6 1080  a097
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 7 1080  5932
